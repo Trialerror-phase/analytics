@@ -84,7 +84,7 @@ export default function App() {
       <section id="home" className="relative overflow-hidden">
         <div className="absolute inset-0 -z-10 opacity-20 pointer-events-none">
           {/* TODO: Replace with a wide hero background image */}
-          <div className="w-full h-full bg-[url('/images/analytics.jpg')] bg-cover bg-center" />
+          <div className="w-full h-full bg-[url('/images/hero-placeholder.jpg')] bg-cover bg-center" />
         </div>
         <div className="mx-auto max-w-7xl px-4 py-24 md:py-32">
           <div className="max-w-2xl">
@@ -244,7 +244,7 @@ export default function App() {
             {/* Contact Form (no backend; uses mailto as a quick start) */}
             <form
               className="rounded-2xl border bg-white p-6 shadow-sm grid gap-4"
-              action="mailto:info@your-domain.com" // TODO: replace with your email
+              action="mailto:nyangayiotuya@gmail.com" // TODO: replace with your email
               method="post"
               encType="text/plain"
             >
