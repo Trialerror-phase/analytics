@@ -215,7 +215,7 @@ export default function App() {
       <section id="about" className="py-20 bg-white border-y">
         <div className="mx-auto max-w-7xl px-4 grid md:grid-cols-2 gap-10 items-center">
           {/* Founder Image Placeholder */}
-          <div className="h-72 md:h-96 rounded-3xl bg-[url('/images/founder.jpeg')] bg-cover bg-center" />
+          <div className="h-72 md:h-96 rounded-3xl bg-[url('/images/founder.webp')] bg-cover bg-center" />
 
           <div>
             <h2 className="text-3xl md:text-4xl font-bold">About Rada Analytics</h2>
