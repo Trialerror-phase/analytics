@@ -28,7 +28,7 @@ export default function App() {
             {/* TODO: Replace with your logo image */}
             <div className="h-10 w-10 rounded-2xl bg-slate-200 flex items-center justify-center text-sm font-semibold">LOGO</div>
             <div className="leading-tight">
-              <p className="font-bold text-lg">Khatasia Consulting</p>
+              <p className="font-bold text-lg">Rada Analytics</p>
               <p className="text-xs text-slate-500">Bookkeeping · Analytics · Grants</p>
             </div>
           </a>
@@ -218,7 +218,7 @@ export default function App() {
           <div className="h-72 md:h-96 rounded-3xl bg-[url('/images/founder.jpeg')] bg-cover bg-center" />
 
           <div>
-            <h2 className="text-3xl md:text-4xl font-bold">About Khatasia Consulting</h2>
+            <h2 className="text-3xl md:text-4xl font-bold">About Rada Analytics</h2>
             <p className="mt-4 text-slate-600">
               {/* TODO: Replace this paragraph with your story */}
               We help small and growing businesses stay on top of their finances
@@ -300,7 +300,7 @@ export default function App() {
       <footer className="py-10">
         <div className="mx-auto max-w-7xl px-4 grid md:grid-cols-4 gap-8 text-sm">
           <div>
-            <p className="font-semibold">Khatasia Consulting</p>
+            <p className="font-semibold">Rada Analytics</p>
             <p className="mt-2 text-slate-600">Bookkeeping · Analytics · Grants</p>
           </div>
           <div>
@@ -327,7 +327,7 @@ export default function App() {
             </ul>
           </div>
         </div>
-        <div className="mt-6 text-center text-xs text-slate-500">© {new Date().getFullYear()} Khatasia Consulting. All rights reserved.</div>
+        <div className="mt-6 text-center text-xs text-slate-500">© {new Date().getFullYear()} Rada Analytics. All rights reserved.</div>
       </footer>
     </div>
   );
